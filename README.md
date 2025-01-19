@@ -180,6 +180,6 @@ These were the engineered columns
 # For More Information
 See the full analysis in the Jupyter Notebook or review this presentation.
 Contact me at 
-[Linkedin](https://www.linkedin.com/in/abdirahman-omar-4b3b97226/)
+[Linkedin](https://www.linkedin.com/in/abdirahman-omar-4b3b97226)
 
 ![alt text](<Pictures/Pasted image (2).png>)
